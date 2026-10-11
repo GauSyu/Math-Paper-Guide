@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文导读"
+  short_description: "用交互网页与逻辑关系图组织论文导读，保留原文术语与编号"
+  default_prompt: "使用 $math-paper-guide，为这篇论文制作交互式导读网页，以逻辑关系图解释关键论证及引文用途，保留原文术语、符号与结果编号。"
